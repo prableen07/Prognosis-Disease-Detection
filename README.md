@@ -1,4 +1,4 @@
-# Prognosis-Disease-Detection
+# Prognosis Disease Detection
 This project aims to predict disease prognosis using machine learning techniques based on patient symptoms and medical history. It helps identify potential health issues early, thereby aiding timely medical intervention.
 
 ## 🔬 Project Overview
